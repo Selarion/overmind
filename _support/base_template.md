@@ -1,9 +1,11 @@
 ---
-created_at: 2025-10-17
-updated_at: 2025-10-17
+created_at:
+  "{ date:YYYY-MM-DD }":
+updated_at:
+  "{ date:YYYY-MM-DD }":
 aliases: []
-author: 
-title:
+author:
+title: {{title}}
 ---
 
 up:: [[]]
