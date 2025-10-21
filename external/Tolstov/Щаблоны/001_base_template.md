@@ -5,7 +5,6 @@ aliases: []
 author: [[Толстов.М.В]]
 title: <% tp.file.title %>
 ---
-
 <% await tp.file.include("[[002_ap]]") %>
 
 <% await tp.file.include("[[003_footer]]") %>
