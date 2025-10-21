@@ -1,7 +1,7 @@
 ---
 created_at: 2025-10-16
 updated_at: 2025-10-21
-aliases: [SSH]
+aliases: [Secure Shell]
 author: "[[Толстов.М.В]]"
 title: Secure Shell
 ---
