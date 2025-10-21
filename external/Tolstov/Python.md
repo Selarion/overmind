@@ -10,9 +10,10 @@ up:: [[Программирование]]
 
 Python — это [[высокоуровневый]] и [[интерпретируемый]] язык программирования, который сейчас используется почти во всех направлениях программирования.
 
-
 ---
+
 См. также
+
 ```dataview
 list WHERE contains(file.outlinks, this.file.link)
 AND !contains(this.file.outlinks, file.link)

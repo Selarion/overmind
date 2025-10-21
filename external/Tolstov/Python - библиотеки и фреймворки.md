@@ -22,7 +22,9 @@ up:: [[Python]]
 - [[pre-commit hooks]] — автоматический запуск проверок (flake8, black и др.)
 - pyproject.toml - универсальный конфигурационный файл для Python-проектов
 ---
+
 См. также
+
 ```dataview
 list WHERE contains(file.outlinks, this.file.link)
 AND !contains(this.file.outlinks, file.link)

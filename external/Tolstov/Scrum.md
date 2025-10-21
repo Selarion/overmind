@@ -40,7 +40,9 @@ Scrum — это способ работать над проектом по ку
 - **Работники** - люди которые работают над проектом 
 
 ---
+
 См. также
+
 ```dataview
 list WHERE contains(file.outlinks, this.file.link)
 AND !contains(this.file.outlinks, file.link)
