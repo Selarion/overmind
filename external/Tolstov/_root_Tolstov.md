@@ -2,15 +2,15 @@
 created_at: 2025-10-21
 updated_at: 2025-10-21
 aliases: []
-author:
-  - - Толстов.М.В
-title: Менеджмент
+author: [[Толстов.М.В]]
+title: root_Tolstov
 ---
 
-up:: [[root_Tolstov]]
+up:: [[root]]
 
-- [[Scrum]] - это способ работать над проектом по кусочкам,
-
+- [[Программирование]]
+- [[Менеджмент]]
+- [[Толстов.М.В]]
 ---
 
 См. также
@@ -19,6 +19,4 @@ up:: [[root_Tolstov]]
 list WHERE contains(file.outlinks, this.file.link)
 AND !contains(this.file.outlinks, file.link)
 ```
-
-
 
