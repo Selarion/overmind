@@ -1,0 +1,2 @@
+
+up:: [[<% tp.file.cursor() %>]]
