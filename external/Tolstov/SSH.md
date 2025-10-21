@@ -39,3 +39,10 @@ ssh-copy-id username@hostname
 ```bash
 scp путь/к/локальному/файлу username@hostname:путь/к/файлу/на/сервере
 ```
+
+---
+См. также
+```dataview
+list WHERE contains(file.outlinks, this.file.link)
+AND !contains(this.file.outlinks, file.link)
+```

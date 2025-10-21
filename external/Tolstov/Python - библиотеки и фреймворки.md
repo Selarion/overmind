@@ -21,3 +21,9 @@ up:: [[Python]]
 - [[Black]] — автоформаттер Python-кода, который автоматически переписывает твой код, чтобы он строго соответствовал единому стилю.
 - [[pre-commit hooks]] — автоматический запуск проверок (flake8, black и др.)
 - pyproject.toml - универсальный конфигурационный файл для Python-проектов
+---
+См. также
+```dataview
+list WHERE contains(file.outlinks, this.file.link)
+AND !contains(this.file.outlinks, file.link)
+```
