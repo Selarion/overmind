@@ -1,12 +1,12 @@
 ---
 created_at: 2025-10-16
-updated_at: 2025-10-21
+updated_at: 2025-10-28
 aliases: [Secure Shell]
 author: "[[Толстов.М.В]]"
 title: Secure Shell
 ---
 
-up:: [[Программирование]]
+up:: [[Инструменты программиста]]
 
 **SSH (Secure Shell)** — защищённый протокол подключения к удалённым серверам.
 
