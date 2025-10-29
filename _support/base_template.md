@@ -3,7 +3,7 @@ created_at: 2025-10-29
 updated_at: 2025-10-29
 aliases: []
 author: [[Зверев М.Ю.]]
-title: <% tp.file.title 1%>
+title: <% tp.file.title %>
 ---
 
 up:: [[<% tp.file.cursor() %>]]

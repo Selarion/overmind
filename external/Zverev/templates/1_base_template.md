@@ -2,7 +2,7 @@
 created_at: 2025-10-29
 updated_at: 2025-10-29
 aliases: []
-author: [[Толстов.М.В]]
+author: [[Зверев М.Ю.]]
 tags: [_]
 title: <% tp.file.title %>
 ---
