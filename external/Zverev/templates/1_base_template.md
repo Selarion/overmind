@@ -1,16 +1,14 @@
 ---
-created_at: 2025-10-28
-updated_at: 2025-10-28
+created_at: 2025-10-29
+updated_at: 2025-10-29
 aliases: []
 author: [[Толстов.М.В]]
-title: Инструменты программиста
+tags: [_]
+title: <% tp.file.title %>
 ---
+up:: [[<% tp.file.cursor() %>]]
 
-up:: [[Программирование]]
 
-- [[Python]]
-- [[SSH]]
-- [[Git]]
 
 ---
 См. также
