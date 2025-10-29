@@ -1,11 +1,16 @@
 ---
-created_at:
-  "{ date:YYYY-MM-DD }":
-updated_at:
-  "{ date:YYYY-MM-DD }":
+created_at: 2025-10-29
+updated_at: 2025-10-29
 aliases: []
-author:
-title: {{title}}
+author: [[Зверев М.Ю.]]
+title: <% tp.file.title 1%>
 ---
 
-up:: [[]]
+up:: [[<% tp.file.cursor() %>]]
+
+---
+См. также
+```dataview
+list WHERE contains(file.outlinks, this.file.link)
+AND !contains(this.file.outlinks, file.link)
+```
