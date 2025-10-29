@@ -1,10 +1,15 @@
 ---
-created_at: <% tp.date.now("YYYY-MM-DD",) %>
-updated_at: <% tp.date.now("YYYY-MM-DD",) %>
+created_at: 2025-10-29
+updated_at: 2025-10-29
 aliases: []
 author: [[Толстов.М.В]]
-title: <% tp.file.title %>
+title: root
 ---
-<% await tp.file.include("[[002_ap]]") %>
+up:: [[<% tp.file.cursor() %>]]
 
-<% await tp.file.include("[[003_footer]]") %>
+---
+См. также
+```dataview
+list WHERE contains(file.outlinks, this.file.link)
+AND !contains(this.file.outlinks, file.link)
+```
