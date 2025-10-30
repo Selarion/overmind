@@ -3,7 +3,7 @@ created_at: 2025-10-29
 updated_at: 2025-10-29
 aliases: []
 author: [[Толстов.М.В]]
-title: root
+title: 003_footer
 ---
 up:: [[<% tp.file.cursor() %>]]
 
