@@ -1,16 +1,15 @@
 ---
 created_at: 2025-10-16
-updated_at: 2025-10-28
-aliases: [Secure Shell]
+updated_at: 2025-10-20
+aliases: [SSH]
 author: "[[Толстов.М.В]]"
 title: Secure Shell
 ---
 
-up:: [[Инструменты программиста]]
-
+up:: [[Толстов.М.В]]
 **SSH (Secure Shell)** — защищённый протокол подключения к удалённым серверам.
 
-## Как Использовать
+## Как использовать
 
 Подключиться к серверу:
 
@@ -38,13 +37,4 @@ ssh-copy-id username@hostname
 
 ```bash
 scp путь/к/локальному/файлу username@hostname:путь/к/файлу/на/сервере
-```
-
----
-
-См. также
-
-```dataview
-list WHERE contains(file.outlinks, this.file.link)
-AND !contains(this.file.outlinks, file.link)
 ```

@@ -3,11 +3,12 @@ created_at: 2025-10-29
 updated_at: 2025-10-29
 aliases: []
 author: [[Зверев М.Ю.]]
-title: Зверев М.Ю.
+tags: [_]
+title: <% tp.file.title %>
 ---
-up:: [[_root_Zverev]]
+up:: [[<% tp.file.cursor() %>]]
 
-Главный мейнтейнер и родитель идеи коллективного обсидиана.
+
 
 ---
 См. также

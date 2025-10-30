@@ -1,0 +1,1 @@
+next:: [[<% tp.file.cursor() %>]]
