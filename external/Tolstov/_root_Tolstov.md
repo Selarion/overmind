@@ -1,12 +1,16 @@
 ---
-created_at: 2025-10-29
+created_at: 2025-10-21
 updated_at: 2025-10-29
 aliases: []
-author: [[Зверев М.Ю.]]
-title: <% tp.file.title %>
+author: [[Толстов.М.В]]
+title: root_Tolstov
 ---
 
-up:: [[<% tp.file.cursor() %>]]
+up:: [[root]]
+
+- [[Программирование]]
+- [[Agile]]
+- [[Толстов.М.В]]
 
 ---
 См. также
